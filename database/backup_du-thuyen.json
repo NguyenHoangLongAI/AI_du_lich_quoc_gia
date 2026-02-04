@@ -1,0 +1,36 @@
+[
+  {
+    "name": "du thuyền ban đêm",
+    "type": "du-thuyen",
+    "sub_type": "",
+    "location": "Bãi Cháy, Quảng Ninh",
+    "address": "",
+    "description": "Điểm trung bình:0/5(0 lượt) Điểm trung bình:0/5(0 lượt)",
+    "price_range": "Liên hệ",
+    "price_min": 0.0,
+    "price_max": 0.0,
+    "opening_hours": "",
+    "image_urls": "[\"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/notify.png\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/vn-flag2.png\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-facebook.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-tiktok.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-youtube.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-bct.svg\"]",
+    "rating": 0.0,
+    "view_count": 0,
+    "url": "https://dulichbaichay.vtcnetviet.com/du-thuyen-ban-dem/",
+    "id": 295
+  },
+  {
+    "name": "Du thuyền ban ngày",
+    "type": "du-thuyen",
+    "sub_type": "",
+    "location": "Bãi Cháy, Quảng Ninh",
+    "address": "",
+    "description": "Điểm trung bình:0/5(0 lượt) Điểm trung bình:0/5(0 lượt)",
+    "price_range": "Liên hệ",
+    "price_min": 0.0,
+    "price_max": 0.0,
+    "opening_hours": "",
+    "image_urls": "[\"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/notify.png\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/vn-flag2.png\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-facebook.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-tiktok.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-youtube.svg\", \"https://dulichbaichay.vtcnetviet.com/wp-content/themes/onecompany/assets/images/ic-bct.svg\"]",
+    "rating": 0.0,
+    "view_count": 0,
+    "url": "https://dulichbaichay.vtcnetviet.com/du-thuyen-ban-ngay/",
+    "id": 296
+  }
+]
