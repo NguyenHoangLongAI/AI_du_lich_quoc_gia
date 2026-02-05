@@ -1,4 +1,3 @@
-# Embedding_vectorDB/tourism_document_api.py
 """
 Tourism Document Processing API - Port 8002
 Upload tài liệu quy định và tư vấn du lịch vào document_tour collection

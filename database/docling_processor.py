@@ -1,4 +1,3 @@
-# Embedding_vectorDB/docling_processor.py
 """
 Docling-based Document Processor
 High-quality document to Markdown conversion with optimized PDF OCR

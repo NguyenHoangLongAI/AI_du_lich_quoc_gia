@@ -1,5 +1,3 @@
-# Embedding_vectorDB/document_processor.py - ENHANCED WITH SMART CHUNKING
-
 import PyPDF2
 from docx import Document
 import pandas as pd
