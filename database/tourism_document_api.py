@@ -55,7 +55,7 @@ app.add_middleware(
 # Milvus Manager cho tourism documents
 milvus_host = os.getenv('MILVUS_HOST', 'localhost')
 milvus_port = os.getenv('MILVUS_PORT', '19530')
-milvus_database = 'du_lich_bai_chay'
+milvus_database = 'bai_chay_tourism_db'
 
 tourism_dao = TourismDocumentDAO(
     host=milvus_host,
